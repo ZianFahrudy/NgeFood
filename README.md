@@ -2,12 +2,12 @@
 
 Aplikasi pesan makanan food market
 
-Firebase Firestore
-Firebase Authentication
-Firebase Storage
+- Firebase Firestore
+- Firebase Authentication
+- Firebase Storage
 
-Cubit state management
-Midtrans Payment Gateway
+- Cubit state management
+- Midtrans Payment Gateway
 
 # backend
 Laravel
