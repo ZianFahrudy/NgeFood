@@ -2,10 +2,6 @@
 
 Aplikasi pesan makanan food market
 
-- Firebase Firestore
-- Firebase Authentication
-- Firebase Storage
-
 - Cubit state management
 - Midtrans Payment Gateway
 
